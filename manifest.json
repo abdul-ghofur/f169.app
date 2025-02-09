@@ -3,7 +3,7 @@
   "short_name": "F169",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#11b21c",
+  "background_color": "#111b21",
   "theme_color": "#202c33",
   "icons": [
     {
